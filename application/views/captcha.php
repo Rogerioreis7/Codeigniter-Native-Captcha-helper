@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Adding a Captcha!</title>
+<title>Adding a Captcha! by Rogerio Reis</title>
 </head>
 <body>
 <h1>Captcha Example</h1>
